@@ -1,0 +1,13 @@
+@font-face{
+	font-family: Raleway;
+	src: url('fonts/Raleway-Regular.ttf');
+}
+@font-face{
+	font-family: ELIcons;
+	src: url('fonts/ElegantIcons.ttf');
+}
+/*https://www.elegantthemes.com/blog/resources/elegant-icon-font*/
+@font-face{
+	font-family: Helvetica;
+	src: url('fonts/Helvetica.otf');
+}
